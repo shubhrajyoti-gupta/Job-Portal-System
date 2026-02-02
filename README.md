@@ -2,7 +2,7 @@
 
 A secure, role-based REST API for a modern job portal built with **Spring Boot**, **JWT Authentication**, and **MySQL**. Designed with enterprise-grade security, data integrity, and scalability in mind.
 
-> 💼 Built to demonstrate full-stack backend engineering skills — ideal for roles at firms like **Deloitte**, **Accenture**, and **Infosys**.
+> 💼 Built to demonstrate full-stack backend engineering skills
 
 ---
 
